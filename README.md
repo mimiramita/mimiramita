@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💻 I'm a CS undergraduate student at UMass Amherst graduating in May 2024. <br />
 - 🎹 I play piano, watch tv shows, and work on projects in my free time. <br />
 <br />
-LinkedIn: https://www.linkedin.com/in/ramita-dh/
+LinkedIn: https://www.linkedin.com/in/ramita-dh/ <br />
 Email: memeramita@gmail.com
