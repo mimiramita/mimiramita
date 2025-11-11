@@ -1,4 +1,4 @@
-### Hi there! I'm Ramita (Mimi) 👋
+### Hi! I'm Ramita (Mimi) 👋
 
 <!--
 **mimiramita/mimiramita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
